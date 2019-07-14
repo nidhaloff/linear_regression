@@ -1,7 +1,1 @@
-# Some Application of machine learning Concepts
-
-- Linear Regression
-- Logistic Regression
-- Neural Network
-- SVM
-- Unsupervised learning
+# an Example of Linear Regression using sklearn
